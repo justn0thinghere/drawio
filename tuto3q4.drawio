@@ -387,11 +387,27 @@
         <mxCell id="FFobNiEl_I5hDZ-hdiMS-116" value="M" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="100" y="410" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FFobNiEl_I5hDZ-hdiMS-117" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.477;exitY=1.187;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="FFobNiEl_I5hDZ-hdiMS-24">
+        <mxCell id="FFobNiEl_I5hDZ-hdiMS-117" value="" style="endArrow=none;html=1;rounded=0;exitX=0.477;exitY=1.187;exitDx=0;exitDy=0;exitPerimeter=0;edgeStyle=orthogonalEdgeStyle;entryX=1.029;entryY=1.055;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;endFill=0;" edge="1" parent="1" source="FFobNiEl_I5hDZ-hdiMS-24" target="FFobNiEl_I5hDZ-hdiMS-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="140" y="820" as="sourcePoint" />
             <mxPoint x="190" y="770" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="86" y="810" />
+              <mxPoint x="1100" y="810" />
+              <mxPoint x="1100" y="193" />
+            </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="FFobNiEl_I5hDZ-hdiMS-118" value="stores" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FFobNiEl_I5hDZ-hdiMS-117">
+          <mxGeometry x="0.5406" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FFobNiEl_I5hDZ-hdiMS-119" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="190" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FFobNiEl_I5hDZ-hdiMS-120" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="50" y="753" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
