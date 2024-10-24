@@ -17,7 +17,7 @@
           <mxGeometry y="118" width="160" height="32" as="geometry" />
         </mxCell>
         <mxCell id="tui6F7jNBKR_N0LMmF0U-5" value="Conference Paper" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="70" width="160" height="200" as="geometry" />
+          <mxGeometry x="50" y="320" width="160" height="200" as="geometry" />
         </mxCell>
         <mxCell id="tui6F7jNBKR_N0LMmF0U-6" value="- file&lt;div&gt;- reference number&lt;br&gt;&lt;div&gt;- status&lt;/div&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="tui6F7jNBKR_N0LMmF0U-5">
           <mxGeometry y="26" width="160" height="74" as="geometry" />
@@ -41,7 +41,7 @@
           <mxGeometry y="60" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="tui6F7jNBKR_N0LMmF0U-13" value="Reviewer" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="320" width="160" height="140" as="geometry" />
+          <mxGeometry x="620" y="310" width="160" height="140" as="geometry" />
         </mxCell>
         <mxCell id="tui6F7jNBKR_N0LMmF0U-14" value="- name" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="tui6F7jNBKR_N0LMmF0U-13">
           <mxGeometry y="26" width="160" height="26" as="geometry" />
@@ -53,7 +53,7 @@
           <mxGeometry y="60" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="tui6F7jNBKR_N0LMmF0U-17" value="Review Code" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="320" width="160" height="140" as="geometry" />
+          <mxGeometry x="370" y="290" width="160" height="140" as="geometry" />
         </mxCell>
         <mxCell id="tui6F7jNBKR_N0LMmF0U-18" value="-" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="tui6F7jNBKR_N0LMmF0U-17">
           <mxGeometry y="26" width="160" height="26" as="geometry" />
@@ -87,6 +87,18 @@
         </mxCell>
         <mxCell id="tui6F7jNBKR_N0LMmF0U-28" value="&lt;div&gt;+ viewSchedule()&lt;/div&gt;&lt;div&gt;+ downloadSchedule()&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="tui6F7jNBKR_N0LMmF0U-25">
           <mxGeometry y="88" width="160" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="tui6F7jNBKR_N0LMmF0U-29" value="" style="endArrow=none;html=1;rounded=0;entryX=0.47;entryY=0.994;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.46;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="tui6F7jNBKR_N0LMmF0U-5" target="tui6F7jNBKR_N0LMmF0U-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="340" as="sourcePoint" />
+            <mxPoint x="50" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tui6F7jNBKR_N0LMmF0U-30" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="125" y="248" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tui6F7jNBKR_N0LMmF0U-31" value="M" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="125" y="290" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
