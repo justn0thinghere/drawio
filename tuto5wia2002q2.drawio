@@ -8,13 +8,79 @@
           <mxGeometry x="70" y="110" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="97suQe9ONWUnQEoq8CcA-2" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
-          <mxGeometry x="375" y="460" width="30" height="30" as="geometry" />
+          <mxGeometry x="185" y="400" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="97suQe9ONWUnQEoq8CcA-3" value="Ali contacts cab firm" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="97suQe9ONWUnQEoq8CcA-3" value="user contacts cab firm and request a cab" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="90" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="97suQe9ONWUnQEoq8CcA-4" value="Ali contacts cab firm" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="97suQe9ONWUnQEoq8CcA-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="97suQe9ONWUnQEoq8CcA-4" target="97suQe9ONWUnQEoq8CcA-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="97suQe9ONWUnQEoq8CcA-4" value="system works out ETA" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="305" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="97suQe9ONWUnQEoq8CcA-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="97suQe9ONWUnQEoq8CcA-5" target="97suQe9ONWUnQEoq8CcA-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="97suQe9ONWUnQEoq8CcA-5" value="controller reports ETA to user" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="97suQe9ONWUnQEoq8CcA-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="97suQe9ONWUnQEoq8CcA-6" target="97suQe9ONWUnQEoq8CcA-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="97suQe9ONWUnQEoq8CcA-6" value="user examine ETA" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="97suQe9ONWUnQEoq8CcA-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="97suQe9ONWUnQEoq8CcA-7" target="97suQe9ONWUnQEoq8CcA-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="97suQe9ONWUnQEoq8CcA-7" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="205" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="97suQe9ONWUnQEoq8CcA-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="97suQe9ONWUnQEoq8CcA-9" target="97suQe9ONWUnQEoq8CcA-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="97suQe9ONWUnQEoq8CcA-9" value="controller ask user for telephone number and confirms the job" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="305" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="97suQe9ONWUnQEoq8CcA-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="97suQe9ONWUnQEoq8CcA-10" target="97suQe9ONWUnQEoq8CcA-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="97suQe9ONWUnQEoq8CcA-10" value="system dispatches a cab to carry out the job" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="97suQe9ONWUnQEoq8CcA-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="97suQe9ONWUnQEoq8CcA-11" target="97suQe9ONWUnQEoq8CcA-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="97suQe9ONWUnQEoq8CcA-11" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="320" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="97suQe9ONWUnQEoq8CcA-12" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="97suQe9ONWUnQEoq8CcA-1" target="97suQe9ONWUnQEoq8CcA-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="380" as="sourcePoint" />
+            <mxPoint x="290" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="97suQe9ONWUnQEoq8CcA-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="97suQe9ONWUnQEoq8CcA-3" target="97suQe9ONWUnQEoq8CcA-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="100" y="130" as="sourcePoint" />
+            <mxPoint x="150" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="97suQe9ONWUnQEoq8CcA-18" value="[user finds ETA acceptable]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="480" y="200" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="97suQe9ONWUnQEoq8CcA-21" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="97suQe9ONWUnQEoq8CcA-7" target="97suQe9ONWUnQEoq8CcA-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="700" y="260" as="sourcePoint" />
+            <mxPoint x="720" y="310" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="700" y="345" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="97suQe9ONWUnQEoq8CcA-22" value="[user finds ETA unacceptable]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="440" y="315" width="180" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
