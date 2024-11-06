@@ -20,7 +20,7 @@
             <mxRectangle width="69" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ogu2pAlEu1ddxDuaBjL8-5" value="5" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="Ogu2pAlEu1ddxDuaBjL8-2">
+        <mxCell id="Ogu2pAlEu1ddxDuaBjL8-5" value="3" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="Ogu2pAlEu1ddxDuaBjL8-2">
           <mxGeometry x="99" width="31" height="30" as="geometry">
             <mxRectangle width="31" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -51,12 +51,12 @@
             <mxRectangle width="30" height="36" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ogu2pAlEu1ddxDuaBjL8-12" value="5" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="Ogu2pAlEu1ddxDuaBjL8-10">
+        <mxCell id="Ogu2pAlEu1ddxDuaBjL8-12" value="3" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="Ogu2pAlEu1ddxDuaBjL8-10">
           <mxGeometry x="30" width="69" height="36" as="geometry">
             <mxRectangle width="69" height="36" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ogu2pAlEu1ddxDuaBjL8-13" value="5" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="Ogu2pAlEu1ddxDuaBjL8-10">
+        <mxCell id="Ogu2pAlEu1ddxDuaBjL8-13" value="3" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="Ogu2pAlEu1ddxDuaBjL8-10">
           <mxGeometry x="99" width="31" height="36" as="geometry">
             <mxRectangle width="31" height="36" as="alternateBounds" />
           </mxGeometry>
