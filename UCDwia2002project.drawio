@@ -5,7 +5,13 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="wyyreSNqi4UNeEEnbctz-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="160" y="200" width="30" height="60" as="geometry" />
+          <mxGeometry x="100" y="190" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wyyreSNqi4UNeEEnbctz-4" value="Autobus UM" style="rounded=0;whiteSpace=wrap;html=1;align=center;horizontal=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="175" y="10" width="530" height="620" as="geometry" />
+        </mxCell>
+        <mxCell id="wyyreSNqi4UNeEEnbctz-5" value="Autonomous Driving System" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="225" y="80" width="200" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
