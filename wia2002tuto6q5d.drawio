@@ -5,16 +5,16 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="SAGonY2cEn5xoz7woeF6-1" value="Customer" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
-          <mxGeometry x="135" y="170" width="30" height="60" as="geometry" />
+          <mxGeometry x="82" y="170" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SAGonY2cEn5xoz7woeF6-2" value="SearchPage" style="shape=umlBoundary;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="160" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="SAGonY2cEn5xoz7woeF6-3" value="Validate" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="490" y="160" width="70" height="80" as="geometry" />
+          <mxGeometry x="495" y="159" width="70" height="80" as="geometry" />
         </mxCell>
         <mxCell id="SAGonY2cEn5xoz7woeF6-4" value="Catalogue" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="683" y="160" width="80" height="80" as="geometry" />
+          <mxGeometry x="683" y="158" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="SAGonY2cEn5xoz7woeF6-7" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="SAGonY2cEn5xoz7woeF6-1" target="SAGonY2cEn5xoz7woeF6-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -28,11 +28,20 @@
             <mxPoint x="420" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SAGonY2cEn5xoz7woeF6-9" value="" style="endArrow=none;html=1;rounded=0;exitX=1.017;exitY=0.495;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="SAGonY2cEn5xoz7woeF6-3">
+        <mxCell id="SAGonY2cEn5xoz7woeF6-9" value="" style="endArrow=none;html=1;rounded=0;exitX=1.017;exitY=0.495;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="SAGonY2cEn5xoz7woeF6-3" target="SAGonY2cEn5xoz7woeF6-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="590" y="310" as="sourcePoint" />
             <mxPoint x="680" y="200" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="SAGonY2cEn5xoz7woeF6-10" value="enterAuthorInfo()&lt;div&gt;search()&lt;/div&gt;&lt;div&gt;displaySearchResult()&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="124" y="145" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SAGonY2cEn5xoz7woeF6-11" value="createValidateObject()&lt;div&gt;returnSearchResult()&lt;/div&gt;&lt;div&gt;validateSearchCriteria()&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="358" y="141" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SAGonY2cEn5xoz7woeF6-13" value="searchBooks(author)&lt;div&gt;returnBookInfo()&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="557" y="145" width="130" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
