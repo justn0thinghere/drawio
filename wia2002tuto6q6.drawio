@@ -83,7 +83,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="uZ4d3hQCUZkd_1F2hXvp-24" value="retrieveMedicationInfo()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="365" y="288" width="150" height="30" as="geometry" />
+          <mxGeometry x="365" y="292" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uZ4d3hQCUZkd_1F2hXvp-25" value="retrieveMedicationInfo()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="610" y="330" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uZ4d3hQCUZkd_1F2hXvp-26" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=6;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="820.5" y="650" as="sourcePoint" />
+            <mxPoint x="820" y="360" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
