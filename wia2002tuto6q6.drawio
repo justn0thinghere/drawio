@@ -19,7 +19,7 @@
         <mxCell id="uZ4d3hQCUZkd_1F2hXvp-5" value="Caretaker" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
           <mxGeometry x="75" y="176" width="50" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="uZ4d3hQCUZkd_1F2hXvp-12" value="aMedication:&lt;div&gt;Medication&lt;/div&gt;" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
+        <mxCell id="uZ4d3hQCUZkd_1F2hXvp-12" value="aScheduleMedication:&lt;div&gt;ScheduleMedication&lt;/div&gt;" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="701" y="180" width="230" height="90" as="geometry" />
         </mxCell>
         <mxCell id="uZ4d3hQCUZkd_1F2hXvp-14" value="" style="endArrow=none;html=1;rounded=0;dashed=1;" parent="1" edge="1">
@@ -107,7 +107,7 @@
           <mxGeometry x="128" y="675" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Z9U59-RSv3r_Wv2yS_4F-1" value="" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="870" y="202.5" width="40" height="40" as="geometry" />
+          <mxGeometry x="876" y="202.5" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
