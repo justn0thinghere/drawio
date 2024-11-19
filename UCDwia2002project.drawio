@@ -160,6 +160,18 @@
         <mxCell id="Ylu1LxrZEbgXdK8KYK68-7" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;UC-14 receive notification&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="217.5" y="1025" width="115" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="Ylu1LxrZEbgXdK8KYK68-8" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Ylu1LxrZEbgXdK8KYK68-3" target="Ylu1LxrZEbgXdK8KYK68-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="970" as="sourcePoint" />
+            <mxPoint x="90" y="920" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ylu1LxrZEbgXdK8KYK68-9" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Ylu1LxrZEbgXdK8KYK68-3" target="Ylu1LxrZEbgXdK8KYK68-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="980" as="sourcePoint" />
+            <mxPoint x="90" y="930" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
