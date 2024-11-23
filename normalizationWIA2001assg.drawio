@@ -230,7 +230,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Hk881FnilYnl4Pr_U3hR-64" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="40" y="450" width="225" height="110" as="geometry" />
+          <mxGeometry x="40" y="433" width="225" height="110" as="geometry" />
         </mxCell>
         <mxCell id="Hk881FnilYnl4Pr_U3hR-35" value="Legend :&lt;div&gt;&lt;br&gt;&lt;div&gt;Full dependency :&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Partial dependency :&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Transitive dependency :&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=right;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Hk881FnilYnl4Pr_U3hR-64">
           <mxGeometry width="150" height="110" as="geometry" />
