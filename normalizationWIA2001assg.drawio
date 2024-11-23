@@ -950,6 +950,72 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="Hk881FnilYnl4Pr_U3hR-231" value="Manager_ID" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="1160" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hk881FnilYnl4Pr_U3hR-235" value="&lt;u&gt;Worker_ID&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry y="1160" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hk881FnilYnl4Pr_U3hR-236" value="Worker_Name" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1160" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hk881FnilYnl4Pr_U3hR-237" value="Worker_Age" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="1160" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hk881FnilYnl4Pr_U3hR-238" value="Worker_Number" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="1160" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hk881FnilYnl4Pr_U3hR-239" value="Branch_ID" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="1160" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hk881FnilYnl4Pr_U3hR-242" value="Working_Days" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="1160" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hk881FnilYnl4Pr_U3hR-243" value="Overtime_Hours" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="1160" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hk881FnilYnl4Pr_U3hR-244" value="Base_Salary" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="298" y="1320" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hk881FnilYnl4Pr_U3hR-245" value="OT_Rate" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="378" y="1320" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hk881FnilYnl4Pr_U3hR-246" value="Total_Salary" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="458" y="1320" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hk881FnilYnl4Pr_U3hR-269" value="Table: Worker" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry y="1130" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Hk881FnilYnl4Pr_U3hR-278" value="&lt;u&gt;Manager_ID&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry y="1480" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hk881FnilYnl4Pr_U3hR-279" value="Manager_Name" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1480" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hk881FnilYnl4Pr_U3hR-280" value="Manager_Role" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="1480" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hk881FnilYnl4Pr_U3hR-281" value="Manager_Salary" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="1480" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hk881FnilYnl4Pr_U3hR-282" value="&lt;u&gt;Branch_ID&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="442" y="1480" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hk881FnilYnl4Pr_U3hR-283" value="Branch_Name" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="542" y="1480" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hk881FnilYnl4Pr_U3hR-284" value="Branch_Work_Description" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="642" y="1480" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hk881FnilYnl4Pr_U3hR-286" value="&lt;u&gt;Working_Days&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="98" y="1320" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hk881FnilYnl4Pr_U3hR-287" value="&lt;u&gt;Overtime_Hours&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="198" y="1320" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hk881FnilYnl4Pr_U3hR-288" value="&lt;u&gt;Branch_ID&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry y="1320" width="100" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
