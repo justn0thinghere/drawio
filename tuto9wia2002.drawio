@@ -82,16 +82,10 @@
         <mxCell id="xSa6YYBrzTuCmYKirAXU-31" value="[no request]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="555" y="342" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xSa6YYBrzTuCmYKirAXU-32" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="xSa6YYBrzTuCmYKirAXU-29" target="xSa6YYBrzTuCmYKirAXU-16">
+        <mxCell id="xSa6YYBrzTuCmYKirAXU-32" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xSa6YYBrzTuCmYKirAXU-29" target="xSa6YYBrzTuCmYKirAXU-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="210" y="500" as="sourcePoint" />
             <mxPoint x="260" y="450" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="566" y="450" />
-              <mxPoint x="80" y="450" />
-              <mxPoint x="80" y="250" />
-              <mxPoint x="160" y="250" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="xSa6YYBrzTuCmYKirAXU-33" value="moving down" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -108,6 +102,16 @@
         </mxCell>
         <mxCell id="xSa6YYBrzTuCmYKirAXU-36" value="moves motor to DOWN" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="679" y="338" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xSa6YYBrzTuCmYKirAXU-37" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="xSa6YYBrzTuCmYKirAXU-33" target="xSa6YYBrzTuCmYKirAXU-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="790" y="550" as="sourcePoint" />
+            <mxPoint x="840" y="500" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="840" y="400" />
+              <mxPoint x="840" y="174" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
