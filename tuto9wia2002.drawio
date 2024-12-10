@@ -113,6 +113,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="xSa6YYBrzTuCmYKirAXU-38" value="stop() [receives arrival event] /&amp;nbsp;&lt;div&gt;stops motor&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="644.5" y="136.5" width="190" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
