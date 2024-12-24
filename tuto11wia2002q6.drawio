@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
   <diagram name="Page-1" id="tJvvNoPdoui7hmkXtmzK">
-    <mxGraphModel dx="1050" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1235" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -37,7 +37,7 @@
         <mxCell id="AQesxRr6Gm1kUcijai8U-9" value="&amp;lt;&amp;lt;protocol&amp;gt;&amp;gt;&lt;div&gt;HTTP&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="315" y="454" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="AQesxRr6Gm1kUcijai8U-10" value="&amp;lt;&amp;lt;component&amp;gt;&amp;gt;&lt;div&gt;CarSharing&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AQesxRr6Gm1kUcijai8U-10" value="&amp;lt;&amp;lt;component&amp;gt;&amp;gt;&lt;div&gt;CarSharing.jar&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="710" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AQesxRr6Gm1kUcijai8U-11" value="&amp;lt;&amp;lt;executable&amp;gt;&amp;gt;&lt;div&gt;MCSControl.java&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -58,7 +58,7 @@
             <mxPoint x="270" y="750" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AQesxRr6Gm1kUcijai8U-15" value="&amp;lt;&amp;lt;component&amp;gt;&amp;gt;&lt;div&gt;CarSharing&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AQesxRr6Gm1kUcijai8U-15" value="&amp;lt;&amp;lt;component&amp;gt;&amp;gt;&lt;div&gt;CarSharing.jar&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="1135" width="190" height="165" as="geometry" />
         </mxCell>
         <mxCell id="AQesxRr6Gm1kUcijai8U-16" value="&amp;lt;&amp;lt;component&amp;gt;&amp;gt;&lt;div&gt;MCS&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
@@ -147,6 +147,60 @@
             <mxPoint x="600" y="1228" as="sourcePoint" />
             <mxPoint x="600" y="1278" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="AQesxRr6Gm1kUcijai8U-48" value="HomeComputer" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;direction=east;flipH=1;fontStyle=4;horizontal=1;verticalAlign=top;align=left;" vertex="1" parent="1">
+          <mxGeometry x="50" y="1390" width="510" height="420" as="geometry" />
+        </mxCell>
+        <mxCell id="AQesxRr6Gm1kUcijai8U-49" value="ClientPC-A" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;direction=east;flipH=1;fontStyle=4;horizontal=1;verticalAlign=top;align=left;" vertex="1" parent="1">
+          <mxGeometry x="60" y="1480" width="150" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="AQesxRr6Gm1kUcijai8U-50" value="ClientPC-B&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-wrap-mode: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22ClientPC-A%22%20style%3D%22shape%3Dcube%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BboundedLbl%3D1%3BbackgroundOutline%3D1%3BdarkOpacity%3D0.05%3BdarkOpacity2%3D0.1%3Bdirection%3Deast%3BflipH%3D1%3BfontStyle%3D4%3Bhorizontal%3D1%3BverticalAlign%3Dtop%3Balign%3Dleft%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%2260%22%20y%3D%221480%22%20width%3D%22150%22%20height%3D%22220%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;direction=east;flipH=1;fontStyle=4;horizontal=1;verticalAlign=top;align=left;" vertex="1" parent="1">
+          <mxGeometry x="220" y="1480" width="150" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="AQesxRr6Gm1kUcijai8U-51" value="ClientPC-C&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-wrap-mode: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22ClientPC-A%22%20style%3D%22shape%3Dcube%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BboundedLbl%3D1%3BbackgroundOutline%3D1%3BdarkOpacity%3D0.05%3BdarkOpacity2%3D0.1%3Bdirection%3Deast%3BflipH%3D1%3BfontStyle%3D4%3Bhorizontal%3D1%3BverticalAlign%3Dtop%3Balign%3Dleft%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%2260%22%20y%3D%221480%22%20width%3D%22150%22%20height%3D%22220%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3&lt;/span&gt;" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;direction=east;flipH=1;fontStyle=4;horizontal=1;verticalAlign=top;align=left;" vertex="1" parent="1">
+          <mxGeometry x="380" y="1480" width="150" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="AQesxRr6Gm1kUcijai8U-53" value="&amp;lt;&amp;lt;component&amp;gt;&amp;gt;&lt;div&gt;MCS.jar&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="68" y="1540" width="115" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="AQesxRr6Gm1kUcijai8U-54" value="&amp;lt;&amp;lt;component&amp;gt;&amp;gt;&lt;div&gt;MCS.jar&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="228.5" y="1540" width="115" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="AQesxRr6Gm1kUcijai8U-55" value="&amp;lt;&amp;lt;component&amp;gt;&amp;gt;&lt;div&gt;MCS.jar&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="388" y="1540" width="115" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="AQesxRr6Gm1kUcijai8U-56" value="Server" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;direction=east;flipH=1;fontStyle=4;horizontal=1;verticalAlign=top;align=left;" vertex="1" parent="1">
+          <mxGeometry x="680" y="1440" width="230" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="AQesxRr6Gm1kUcijai8U-57" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0;entryDx=230;entryDy=150;entryPerimeter=0;exitX=0;exitY=0;exitDx=0;exitDy=200;exitPerimeter=0;" edge="1" parent="1" source="AQesxRr6Gm1kUcijai8U-48" target="AQesxRr6Gm1kUcijai8U-56">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="1630" as="sourcePoint" />
+            <mxPoint x="610" y="1580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AQesxRr6Gm1kUcijai8U-58" value="&amp;lt;&amp;lt;protocol&amp;gt;&amp;gt;&lt;div&gt;TCP/IP&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="565" y="1550" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AQesxRr6Gm1kUcijai8U-60" value="Printer" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;direction=east;flipH=1;fontStyle=4;horizontal=1;verticalAlign=top;align=left;" vertex="1" parent="1">
+          <mxGeometry x="640" y="1820" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="AQesxRr6Gm1kUcijai8U-61" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0;entryDx=125;entryDy=280;entryPerimeter=0;exitX=0;exitY=0;exitDx=70;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="AQesxRr6Gm1kUcijai8U-60" target="AQesxRr6Gm1kUcijai8U-56">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="1810" as="sourcePoint" />
+            <mxPoint x="690" y="1760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AQesxRr6Gm1kUcijai8U-62" value="&amp;lt;&amp;lt;protocol&amp;gt;&amp;gt;&lt;div&gt;Standard parallel printer protocol&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="750" y="1762" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AQesxRr6Gm1kUcijai8U-63" value="&amp;lt;&amp;lt;component&amp;gt;&amp;gt;&lt;div&gt;CarSharing.jar&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="1490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AQesxRr6Gm1kUcijai8U-64" value="&amp;lt;&amp;lt;file&amp;gt;&amp;gt;&lt;div&gt;MCS.ini&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="1560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AQesxRr6Gm1kUcijai8U-65" value="&amp;lt;&amp;lt;file&amp;gt;&amp;gt;&lt;div&gt;MCS.hlp&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="1630" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
