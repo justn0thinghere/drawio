@@ -37,6 +37,27 @@
         <mxCell id="AQesxRr6Gm1kUcijai8U-9" value="&amp;lt;&amp;lt;protocol&amp;gt;&amp;gt;&lt;div&gt;HTTP&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="315" y="454" width="90" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="AQesxRr6Gm1kUcijai8U-10" value="&amp;lt;&amp;lt;component&amp;gt;&amp;gt;&lt;div&gt;CarSharing&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AQesxRr6Gm1kUcijai8U-11" value="&amp;lt;&amp;lt;executable&amp;gt;&amp;gt;&lt;div&gt;MCSControl.java&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AQesxRr6Gm1kUcijai8U-12" value="&amp;lt;&amp;lt;executable&amp;gt;&amp;gt;&lt;div&gt;MCSUserInterface.java&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="820" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AQesxRr6Gm1kUcijai8U-13" value="" style="endArrow=block;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;endFill=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="AQesxRr6Gm1kUcijai8U-11" target="AQesxRr6Gm1kUcijai8U-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="295" y="670" as="sourcePoint" />
+            <mxPoint x="405" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AQesxRr6Gm1kUcijai8U-14" value="" style="endArrow=block;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;endFill=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="AQesxRr6Gm1kUcijai8U-11" target="AQesxRr6Gm1kUcijai8U-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="750" as="sourcePoint" />
+            <mxPoint x="270" y="750" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
