@@ -357,8 +357,8 @@
             <mxPoint x="50" y="90" as="sourcePoint" />
             <mxPoint x="-70" y="150" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-10" y="90" />
-              <mxPoint x="-10" y="220" />
+              <mxPoint x="-40" y="90" />
+              <mxPoint x="-40" y="220" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1206,6 +1206,16 @@
         </mxCell>
         <mxCell id="jYHnNtT7fuMBQL7j34yz-9" value="Paycheck_Date" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-20" y="240" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jYHnNtT7fuMBQL7j34yz-10" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-40" y="220" as="sourcePoint" />
+            <mxPoint x="-20" y="260" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-40" y="220" />
+              <mxPoint x="-40" y="260" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
