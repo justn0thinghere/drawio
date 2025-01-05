@@ -91,11 +91,11 @@
             <mxPoint x="360" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Z0j3BM8eAVYjfzLfSYt4-25" value="start-up" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Z0j3BM8eAVYjfzLfSYt4-25" value="shut-down" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="305" y="440" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Z0j3BM8eAVYjfzLfSYt4-26" value="[at least one sensor not working]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="280" y="388" width="200" height="30" as="geometry" />
+        <mxCell id="Z0j3BM8eAVYjfzLfSYt4-26" value="requestMaintenance() [at least one sensor not working]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="230" y="399" width="320" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
