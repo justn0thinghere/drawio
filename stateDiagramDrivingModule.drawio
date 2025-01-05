@@ -40,14 +40,38 @@
         <mxCell id="Z0j3BM8eAVYjfzLfSYt4-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Z0j3BM8eAVYjfzLfSYt4-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="270" y="250" as="sourcePoint" />
-            <mxPoint x="240" y="200" as="targetPoint" />
+            <mxPoint x="240" y="150" as="targetPoint" />
             <Array as="points">
               <mxPoint x="240" y="110" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Z0j3BM8eAVYjfzLfSYt4-11" value="[uc-2 perform autonomous drive]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="153" y="128" width="200" height="30" as="geometry" />
+          <mxGeometry x="153" y="110" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Z0j3BM8eAVYjfzLfSYt4-12" value="start-up" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z0j3BM8eAVYjfzLfSYt4-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Z0j3BM8eAVYjfzLfSYt4-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="270" y="270" as="sourcePoint" />
+            <mxPoint x="240" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z0j3BM8eAVYjfzLfSYt4-14" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="240" width="160" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Z0j3BM8eAVYjfzLfSYt4-15" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="1">
+          <mxGeometry x="160" y="273" width="160" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="Z0j3BM8eAVYjfzLfSYt4-16" value="checking bus status" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="175" y="243" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Z0j3BM8eAVYjfzLfSYt4-17" value="obtainBusStatus()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="232" y="210" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Z0j3BM8eAVYjfzLfSYt4-18" value="entry/checkSensor()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="156" y="273" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
