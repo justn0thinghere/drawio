@@ -880,8 +880,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ov1vo18SGQD7W8dcJtKD-186" value="[waiting time &amp;lt; 30secs]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1859" y="279" width="150" height="30" as="geometry" />
+        <mxCell id="Ov1vo18SGQD7W8dcJtKD-186" value="wait()&lt;div&gt;[waiting time &amp;lt; 30secs]&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1863" y="266" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Ov1vo18SGQD7W8dcJtKD-187" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Ov1vo18SGQD7W8dcJtKD-179">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -929,6 +929,9 @@
               <mxPoint x="1740" y="317" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Ov1vo18SGQD7W8dcJtKD-198" value="warnDoorPassenger()&lt;div&gt;[passenger near door]&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1676" y="341" width="140" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
