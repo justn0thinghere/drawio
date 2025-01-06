@@ -1145,30 +1145,6 @@
         <mxCell id="Ov1vo18SGQD7W8dcJtKD-517" value="exit/announceDriverRequest()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1733" y="1200" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Ov1vo18SGQD7W8dcJtKD-518" value="" style="endArrow=none;html=1;rounded=0;entryX=0.188;entryY=1.019;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="Ov1vo18SGQD7W8dcJtKD-513">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1778" y="1310" as="sourcePoint" />
-            <mxPoint x="1750" y="1310" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Ov1vo18SGQD7W8dcJtKD-519" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1804" y="1310" as="sourcePoint" />
-            <mxPoint x="1754" y="1310" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Ov1vo18SGQD7W8dcJtKD-521" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1760" y="1310" as="sourcePoint" />
-            <mxPoint x="1730" y="1350" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Ov1vo18SGQD7W8dcJtKD-522" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1796" y="1310" as="sourcePoint" />
-            <mxPoint x="1820" y="1350" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="Ov1vo18SGQD7W8dcJtKD-523" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Ov1vo18SGQD7W8dcJtKD-513">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2000" y="1240" as="sourcePoint" />
@@ -1176,10 +1152,34 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Ov1vo18SGQD7W8dcJtKD-524" value="[passenger knows how to drive]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1669" y="1260" width="190" height="30" as="geometry" />
+          <mxGeometry x="1674" y="1260" width="190" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ov1vo18SGQD7W8dcJtKD-525" value="[no passenger knows&amp;nbsp;&lt;div&gt;how to drive]&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1930" y="1148" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ov1vo18SGQD7W8dcJtKD-526" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.218;exitY=1.019;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1784.2409999999995" y="1249.71" as="sourcePoint" />
+            <mxPoint x="1784" y="1308" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ov1vo18SGQD7W8dcJtKD-527" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1691.5" y="1310" width="228.5" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Ov1vo18SGQD7W8dcJtKD-528" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ov1vo18SGQD7W8dcJtKD-527" target="Ov1vo18SGQD7W8dcJtKD-527">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1541" y="1350" as="sourcePoint" />
+            <mxPoint x="1591" y="1300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ov1vo18SGQD7W8dcJtKD-529" value="announcing emergency override" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1691.5" y="1308" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ov1vo18SGQD7W8dcJtKD-530" value="entry/stopInstruction(location, instruction)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1685.75" y="1330" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ov1vo18SGQD7W8dcJtKD-532" value="entry/toggleManualDrive()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1684.75" y="1347" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
