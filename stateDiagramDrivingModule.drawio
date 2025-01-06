@@ -957,6 +957,24 @@
         <mxCell id="Ov1vo18SGQD7W8dcJtKD-220" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2135.5" y="160" width="49" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="Ov1vo18SGQD7W8dcJtKD-221" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Ov1vo18SGQD7W8dcJtKD-220">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2200" y="290" as="sourcePoint" />
+            <mxPoint x="2160" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ov1vo18SGQD7W8dcJtKD-222" value="[no passengers]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2105" y="206" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ov1vo18SGQD7W8dcJtKD-223" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Ov1vo18SGQD7W8dcJtKD-220">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2370" y="230" as="sourcePoint" />
+            <mxPoint x="2310" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ov1vo18SGQD7W8dcJtKD-224" value="[passengers present]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2171" y="151" width="140" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
