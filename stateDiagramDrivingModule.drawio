@@ -736,6 +736,12 @@
         <mxCell id="Ov1vo18SGQD7W8dcJtKD-123" value="adapting to rain" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1287" y="542" width="110" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="Ov1vo18SGQD7W8dcJtKD-126" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Z0j3BM8eAVYjfzLfSYt4-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="790" y="40" as="sourcePoint" />
+            <mxPoint x="1850.9412339154412" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
