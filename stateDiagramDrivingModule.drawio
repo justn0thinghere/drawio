@@ -722,9 +722,6 @@
         <mxCell id="Ov1vo18SGQD7W8dcJtKD-127" value="uc-6 adapt to internal environment" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1135" y="77" width="210" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Ov1vo18SGQD7W8dcJtKD-130" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1850" y="80" width="49" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="Ov1vo18SGQD7W8dcJtKD-131" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1198" y="399" width="192" height="90" as="geometry" />
         </mxCell>
@@ -840,11 +837,8 @@
             <mxPoint x="320" y="510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ov1vo18SGQD7W8dcJtKD-168" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Ov1vo18SGQD7W8dcJtKD-130">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1840" y="260" as="sourcePoint" />
-            <mxPoint x="1875" y="180" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="Ov1vo18SGQD7W8dcJtKD-169" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1850" y="179" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
