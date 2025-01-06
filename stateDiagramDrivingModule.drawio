@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.3">
   <diagram name="Page-1" id="r8O2QDhaZeve9ij8PzjR">
-    <mxGraphModel dx="2085" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2950" dy="1044" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -629,8 +629,8 @@
             <mxPoint x="600" y="1010" as="sourcePoint" />
             <mxPoint x="672" y="880" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="673" y="860" />
-              <mxPoint x="360" y="860" />
+              <mxPoint x="673" y="870" />
+              <mxPoint x="360" y="870" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -644,7 +644,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Ov1vo18SGQD7W8dcJtKD-100" value="stopAdaptToSurroundings() [reach final destination]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="514" y="860" width="300" height="30" as="geometry" />
+          <mxGeometry x="514" y="873" width="300" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
