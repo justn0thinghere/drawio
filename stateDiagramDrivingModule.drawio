@@ -746,11 +746,10 @@
         <mxCell id="Ov1vo18SGQD7W8dcJtKD-140" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="Ov1vo18SGQD7W8dcJtKD-131">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="370" y="630" as="sourcePoint" />
-            <mxPoint x="1010" y="920" as="targetPoint" />
+            <mxPoint x="700" y="890" as="targetPoint" />
             <Array as="points">
               <mxPoint x="1600" y="466" />
-              <mxPoint x="1600" y="920" />
-              <mxPoint x="1020" y="920" />
+              <mxPoint x="1600" y="890" />
             </Array>
           </mxGeometry>
         </mxCell>
