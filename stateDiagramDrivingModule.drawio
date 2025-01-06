@@ -843,6 +843,15 @@
         <mxCell id="Ov1vo18SGQD7W8dcJtKD-170" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1850" y="81" width="49" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="Ov1vo18SGQD7W8dcJtKD-171" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="Ov1vo18SGQD7W8dcJtKD-170" target="Ov1vo18SGQD7W8dcJtKD-169">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2010" y="240" as="sourcePoint" />
+            <mxPoint x="2060" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ov1vo18SGQD7W8dcJtKD-172" value="[bus stops at station]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1713" y="130" width="130" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
