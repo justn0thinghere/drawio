@@ -624,14 +624,18 @@
         <mxCell id="Ov1vo18SGQD7W8dcJtKD-95" value="[Rain == false &amp;amp;&amp;amp;&amp;nbsp;&lt;div&gt;all sensors worked &amp;amp;&amp;amp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;not reach final destination]&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="481" y="197" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ov1vo18SGQD7W8dcJtKD-96" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Ov1vo18SGQD7W8dcJtKD-81">
+        <mxCell id="Ov1vo18SGQD7W8dcJtKD-96" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="Ov1vo18SGQD7W8dcJtKD-81" target="Z0j3BM8eAVYjfzLfSYt4-35">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="600" y="1010" as="sourcePoint" />
             <mxPoint x="672" y="880" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="673" y="860" />
+              <mxPoint x="360" y="860" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Ov1vo18SGQD7W8dcJtKD-97" value="[Rain == true &amp;amp;&amp;amp; not reach final destination]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="548" y="838" width="260" height="30" as="geometry" />
+          <mxGeometry x="860" y="802.5" width="260" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ov1vo18SGQD7W8dcJtKD-98" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Ov1vo18SGQD7W8dcJtKD-81">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -639,11 +643,8 @@
             <mxPoint x="1120" y="833" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ov1vo18SGQD7W8dcJtKD-99" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1120" y="808" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Ov1vo18SGQD7W8dcJtKD-100" value="[reach final destination]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="885" y="828" width="150" height="30" as="geometry" />
+        <mxCell id="Ov1vo18SGQD7W8dcJtKD-100" value="stopAdaptToSurroundings() [reach final destination]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="514" y="860" width="300" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
