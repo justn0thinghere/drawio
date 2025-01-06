@@ -688,8 +688,8 @@
         <mxCell id="Ov1vo18SGQD7W8dcJtKD-114" value="adapt to harsher rain" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1482" y="919" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Ov1vo18SGQD7W8dcJtKD-115" value="entry/slowdown()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1485" y="945" width="110" height="30" as="geometry" />
+        <mxCell id="Ov1vo18SGQD7W8dcJtKD-115" value="entry/slowDown()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1480" y="945" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
