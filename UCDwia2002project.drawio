@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.5">
   <diagram name="Page-1" id="UIv36l2mWd346YbS5Nf6">
-    <mxGraphModel dx="1750" dy="870" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1500" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,22 +8,7 @@
           <mxGeometry x="40" y="280" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wyyreSNqi4UNeEEnbctz-4" value="Autobus UM" style="rounded=0;whiteSpace=wrap;html=1;align=center;horizontal=1;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="110" y="10" width="640" height="1080" as="geometry" />
-        </mxCell>
-        <mxCell id="wyyreSNqi4UNeEEnbctz-5" value="Autonomous Driving Module" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="190" y="79" width="190" height="241" as="geometry" />
-        </mxCell>
-        <mxCell id="wyyreSNqi4UNeEEnbctz-6" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;UC-1 obtain path&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="wyyreSNqi4UNeEEnbctz-5" vertex="1">
-          <mxGeometry x="40" y="31" width="90" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="wyyreSNqi4UNeEEnbctz-7" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;UC-2 perform autonomous drive&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="wyyreSNqi4UNeEEnbctz-5" vertex="1">
-          <mxGeometry x="40" y="141" width="90" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="wyyreSNqi4UNeEEnbctz-17" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="wyyreSNqi4UNeEEnbctz-5" source="wyyreSNqi4UNeEEnbctz-7" target="wyyreSNqi4UNeEEnbctz-6" edge="1">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="10" y="101" as="sourcePoint" />
-            <mxPoint x="170" y="101" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="110" y="120" width="640" height="650" as="geometry" />
         </mxCell>
         <mxCell id="wyyreSNqi4UNeEEnbctz-11" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="wyyreSNqi4UNeEEnbctz-1" target="wyyreSNqi4UNeEEnbctz-7" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -31,29 +16,8 @@
             <mxPoint x="220" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wyyreSNqi4UNeEEnbctz-12" value="Weather/External Environment Adaption Module" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="125" y="361" width="300" height="171" as="geometry" />
-        </mxCell>
-        <mxCell id="wyyreSNqi4UNeEEnbctz-21" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;UC-5 adapt to rain&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="wyyreSNqi4UNeEEnbctz-12" vertex="1">
-          <mxGeometry x="195" y="89" width="90" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="wyyreSNqi4UNeEEnbctz-20" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;UC-4 adapt to surroundings&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="wyyreSNqi4UNeEEnbctz-12" vertex="1">
-          <mxGeometry x="35" y="89" width="90" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="wyyreSNqi4UNeEEnbctz-24" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="wyyreSNqi4UNeEEnbctz-12" source="wyyreSNqi4UNeEEnbctz-21" target="wyyreSNqi4UNeEEnbctz-20" edge="1">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="145" y="109" as="sourcePoint" />
-            <mxPoint x="305" y="109" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="wyyreSNqi4UNeEEnbctz-14" value="Central Control Module" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="440" y="169.5" width="300" height="400.5" as="geometry" />
-        </mxCell>
-        <mxCell id="wyyreSNqi4UNeEEnbctz-36" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;UC-11 perform Emergency Override&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="wyyreSNqi4UNeEEnbctz-14" vertex="1">
-          <mxGeometry x="50" y="260.5" width="90" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="wyyreSNqi4UNeEEnbctz-16" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;UC-3 update bus information&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="570" y="260" width="90" height="49" as="geometry" />
+          <mxGeometry x="460" y="230" width="90" height="49" as="geometry" />
         </mxCell>
         <mxCell id="wyyreSNqi4UNeEEnbctz-19" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" parent="1" source="wyyreSNqi4UNeEEnbctz-7" target="wyyreSNqi4UNeEEnbctz-16" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -67,32 +31,17 @@
             <mxPoint x="100" y="410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wyyreSNqi4UNeEEnbctz-26" value="Internal Environment Adaption Module" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="130" y="550" width="250" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="wyyreSNqi4UNeEEnbctz-28" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;UC-6 adapt to internal environment&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="wyyreSNqi4UNeEEnbctz-26" vertex="1">
-          <mxGeometry x="60" y="40" width="110" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="wyyreSNqi4UNeEEnbctz-29" value="Communication Module" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="150" y="680" width="250" height="250" as="geometry" />
-        </mxCell>
         <mxCell id="wyyreSNqi4UNeEEnbctz-31" value="Passenger" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="30" y="750" width="30" height="60" as="geometry" />
+          <mxGeometry x="40" y="510" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wyyreSNqi4UNeEEnbctz-32" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;UC-7 communicate with Central Control System&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="210" y="710" width="120" height="70" as="geometry" />
+          <mxGeometry x="165" y="450" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="wyyreSNqi4UNeEEnbctz-33" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;UC-8 make emergency call&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="210" y="820" width="120" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="wyyreSNqi4UNeEEnbctz-34" value="User Interface Module" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="465" y="745" width="250" height="240" as="geometry" />
-        </mxCell>
-        <mxCell id="wyyreSNqi4UNeEEnbctz-38" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;UC-10 send feedback&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="wyyreSNqi4UNeEEnbctz-34" vertex="1">
-          <mxGeometry x="45" y="155" width="115" height="60" as="geometry" />
+          <mxGeometry x="165" y="530" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="wyyreSNqi4UNeEEnbctz-35" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;UC-9 obtain bus information&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="510" y="810" width="115" height="60" as="geometry" />
+          <mxGeometry x="490" y="510" width="115" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wyyreSNqi4UNeEEnbctz-37" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="wyyreSNqi4UNeEEnbctz-36" target="wyyreSNqi4UNeEEnbctz-32" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -119,7 +68,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="wyyreSNqi4UNeEEnbctz-46" value="Mobile Application&lt;div&gt;User&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="786" y="830" width="30" height="60" as="geometry" />
+          <mxGeometry x="790" y="550" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wyyreSNqi4UNeEEnbctz-47" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="wyyreSNqi4UNeEEnbctz-35" target="wyyreSNqi4UNeEEnbctz-46" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -140,16 +89,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Ylu1LxrZEbgXdK8KYK68-3" value="System&lt;div&gt;Administrator&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="40" y="990" width="30" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Ylu1LxrZEbgXdK8KYK68-4" value="Administrator Module" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="160" y="950" width="250" height="120" as="geometry" />
+          <mxGeometry x="40" y="650" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ylu1LxrZEbgXdK8KYK68-6" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;UC-12 perform maintenance&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="217.5" y="980" width="115" height="40" as="geometry" />
+          <mxGeometry x="175" y="620" width="115" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Ylu1LxrZEbgXdK8KYK68-7" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;UC-13 receive notification&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="217.5" y="1025" width="115" height="40" as="geometry" />
+          <mxGeometry x="167.5" y="690" width="115" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Ylu1LxrZEbgXdK8KYK68-8" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="Ylu1LxrZEbgXdK8KYK68-3" target="Ylu1LxrZEbgXdK8KYK68-6" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -162,6 +108,39 @@
             <mxPoint x="40" y="980" as="sourcePoint" />
             <mxPoint x="90" y="930" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="wyyreSNqi4UNeEEnbctz-36" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;UC-11 perform Emergency Override&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="370" y="450" width="90" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="wyyreSNqi4UNeEEnbctz-38" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;UC-10 send feedback&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="490" y="600" width="115" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wyyreSNqi4UNeEEnbctz-28" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;UC-6 adapt to internal environment&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="170" y="380" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wyyreSNqi4UNeEEnbctz-20" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;UC-4 adapt to surroundings&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="180" y="310" width="90" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="wyyreSNqi4UNeEEnbctz-24" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="wyyreSNqi4UNeEEnbctz-21" target="wyyreSNqi4UNeEEnbctz-20" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="270" y="470" as="sourcePoint" />
+            <mxPoint x="430" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wyyreSNqi4UNeEEnbctz-21" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;UC-5 adapt to rain&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="310" width="90" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="wyyreSNqi4UNeEEnbctz-6" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;UC-1 obtain path&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="200" y="140" width="90" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="wyyreSNqi4UNeEEnbctz-17" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="wyyreSNqi4UNeEEnbctz-7" target="wyyreSNqi4UNeEEnbctz-6" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="200" y="180" as="sourcePoint" />
+            <mxPoint x="360" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wyyreSNqi4UNeEEnbctz-7" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;UC-2 perform autonomous drive&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="200" y="230" width="90" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
